@@ -25,11 +25,11 @@ function ComingSoon() {
                 </h1>
 
                 <p className="text-lg md:text-2xl text-white mb-2 animate-fadeUp delay-200">
-                    Expert Physiotherapy Care Is Coming Soon
+                    Smart Physiotherapy Software Is Coming Soon
                 </p>
 
                 <p className="text-sm md:text-base text-white/70 italic mb-8 animate-fadeUp delay-300">
-                    Helping You Move Better, Live Stronger
+                    Powering Better Care Through Technology
                 </p>
 
                 <button className="px-10 py-3 rounded-full text-white font-semibold text-lg neon-button transition-all duration-300 hover:scale-105">
